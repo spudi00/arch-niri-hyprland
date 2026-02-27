@@ -1,5 +1,5 @@
     window-rule {
-        geometry-corner-radius 8 // Set every window radius to 20
+        geometry-corner-radius 10 // Set every window radius to 20
         clip-to-geometry true
     }
 
@@ -15,7 +15,7 @@
     window-rule {
         match title="Vivaldi"
         open-on-workspace "2"
-        open-focused false
+        open-focused true
     }
     window-rule {
         match title="Spotify"
