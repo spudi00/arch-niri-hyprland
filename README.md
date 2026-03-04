@@ -21,8 +21,6 @@ makepkg -si
 
 ## 💾 Mounting HDD
 
-Create the mount point and add the drive to `/etc/fstab` for automatic mounting on boot:
-
 ```bash
 sudo mkdir /mnt/hdd
 ```
