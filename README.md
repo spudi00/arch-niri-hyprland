@@ -2,7 +2,7 @@
 
 # 🖥️ Arch Linux Setup
 
-Personal setup guide for getting an Arch system up and running — packages, mounts, and essentials.
+Personal setup for getting an Arch system up and running — packages, mounts, and essentials.
 
 ---
 
