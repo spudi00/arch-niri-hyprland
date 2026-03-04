@@ -47,6 +47,6 @@ sudo pacman -S --noconfirm kitty vesktop steam mpv eog obs-studio neovim ntfs-3g
 ### AUR (`yay`)
 
 ```bash
-yay -S --noconfirm spotify zen-browser-bin noctalia-shell
+yay -S --noconfirm spotify zen-browser-bin noctalia-shell faugus-launcher
 ```
 
