@@ -1,4 +1,5 @@
 <img width="1920" height="1080" alt="screenshot-2026-02-27_23-04-12" src="https://github.com/user-attachments/assets/4e7fea76-af29-4914-af41-395023d1c5f7" />
+<img width="1920" height="1080" alt="screenshot-2026-03-11_18-59-17" src="https://github.com/user-attachments/assets/3f0526db-93cf-4856-9357-ea1d8f5bcd6e" />
 
 # 🖥️ Arch Linux Setup
 
