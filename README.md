@@ -3,9 +3,7 @@
 
 ## Niri
 
-<img width="1920" height="1079" alt="image" src="https://github.com/user-attachments/assets/57911741-fee3-45b2-9a93-491c132c01af" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42e9999d-91bb-4a77-9aa9-ea257786b5e3" />
-
 
 ## Hyprland
 
