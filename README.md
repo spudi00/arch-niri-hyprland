@@ -46,13 +46,13 @@ UUID=4ACAE882CAE86B9F  /mnt/hdd  ntfs-3g  uid=1000,gid=1000,umask=022  0  0
 ### Official Repos (`pacman`)
 
 ```bash
-sudo pacman -S --noconfirm kitty vesktop mpv eog obs-studio neovim ntfs-3g qbittorrent cava rocm-smi-lib flatpak baobab
+sudo pacman -S --noconfirm kitty mpv eog neovim ntfs-3g cava rocm-smi-lib
 ```
 
 
 ### AUR (`yay`)
 
 ```bash
-yay -S --noconfirm spotify zen-browser-bin noctalia-shell faugus-launcher
+yay -S --noconfirm zen-browser-bin
 ```
 
